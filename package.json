@@ -1,0 +1,24 @@
+{
+  "name": "web-comm",
+  "version": "1.0.0",
+  "description": "SAIT class",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosa-suarez/webcomm.git"
+  },
+  "keywords": [
+    "web",
+    "communication",
+    "SAIT"
+  ],
+  "author": "Carlos Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosa-suarez/webcomm/issues"
+  },
+  "homepage": "https://github.com/carlosa-suarez/webcomm#readme"
+}
