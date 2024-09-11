@@ -3,6 +3,27 @@ body {
     color: yellow;
 }
 
+aside {
+    background-color: white;
+    margin-right: 10px;
+    width: 15%;
+    height: 100%;
+}
+
 h1 {
     background-color: black;
+}
+
+section#hero {
+    background-color: white;
+    margin: 0 auto;
+    width: 70%;
+}
+
+section p, section ol, section ul, aside {
+    color: black;
+}
+
+section#hero img {
+    width: 40%;
 }
